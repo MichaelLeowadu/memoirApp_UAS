@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_blue">#90D5FF</color>
+    <color name="blue">#2776A8</color>
+    <color name="deep_blue">#133C56</color>
+
+    <color name="light_creme">#fdfbf6</color>
+    <color name="creme">#FFFCF1</color>
+    <color name="gray_hint">#8D9097</color>
+    <color name="sky_blue_three">#EFF8FF</color>
+    <color name="yellow">#FDCD5C</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,23 @@
+buildscript {
+    ext {
+        kotlin_version = '1.9.10'
+    }
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven {url "https://maven.google.com"}
+    }
+    dependencies {
+        def gradle = '8.5.1'
+        classpath "com.android.tools.build:gradle:$gradle"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "com.google.dagger:hilt-android-gradle-plugin:2.48"
+    }
+}
+
+plugins {
+    alias(libs.plugins.jetbrains.kotlin.serialization) apply false
+    id 'com.google.devtools.ksp' version '1.9.10-1.0.13' apply false
+    alias(libs.plugins.google.gms.google.services) apply false
+}
