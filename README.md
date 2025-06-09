@@ -1,4 +1,4 @@
-Deskripsi  Fitur :
+##Deskripsi  Fitur :
 
 
 Fitur 1: Login & Sign Up Screen (User dapat Login atau Sign Up sebelum masuk ke aplikasi)
@@ -37,3 +37,49 @@ Fitur 9: Tablet Responsive Layout, berupa fitur untuk menyesuaikan tampilan seca
 
 
 Fitur 10: Orientation Responsive Layout, berupa fitur yang menyesuaikan tampilan aplikasi pada smartphone secara otomatis saat device dalam keadaan potrait (vertikal) dan landscape (horizontal).
+
+
+
+## Struktur FireBase
+
+"."
+(string)
+
+
+id
+"8bJOedrmS757RLqwpWMH"
+(string)
+
+
+imagePath
+"https://rzqfzgiueceahtubycgz.supabase.co/storage/v1/object/public/memoimage/8bJOedrmS757RLqwpWMH.jpg"
+(string)
+
+
+judul
+"Main Dart"
+(string)
+
+
+lat
+-6.597629
+(number)
+
+
+locationName
+"Jl. Botani Square No.1, RT.01/RW.05, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129, Indonesia"
+(string)
+
+
+lon
+106.807679
+(number)
+
+
+timeStamp
+1749369662314
+(number)
+
+
+userId
+"FA5gqeyVtUUoc6URhc7j0fjJobJ3"
