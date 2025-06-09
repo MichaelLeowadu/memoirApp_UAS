@@ -1,4 +1,6 @@
 Deskripsi  Fitur :
+
+
 Fitur 1: Login & Sign Up Screen (User dapat Login atau Sign Up sebelum masuk ke aplikasi)
 User dapat melakukan registrasi terlebih dahulu pada fitur Sign Up sebelum masuk ke dalam aplikasi. Pada saat melakukan sign up, user perlu menginput Username, email, dan password. Password setidaknya harus memiliki panjang 6 karakter.
 User dapat melakukan Login dengan menginput Email dan password yang sebelumnya telah di registrasi pada halaman Sign Up.
